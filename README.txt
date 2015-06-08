@@ -2,4 +2,6 @@
 "knock knock"
 "Who's there?"
 "git"
-"git this joke over with."
+"git who?"
+"git on!"
+
